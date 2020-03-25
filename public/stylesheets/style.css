@@ -1,0 +1,16 @@
+body {
+    background: azure;
+    padding: 20px 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#menu {
+    text-align: right;
+}
+
+#pager {
+    text-align: right;
+}
